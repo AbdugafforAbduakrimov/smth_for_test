@@ -1,0 +1,13 @@
+{
+    "name": "web/test",
+    "description": "This library is created just for test",
+    "type": "library",
+    "license": "MIT",
+    "authors" :[
+    	{
+    		"name": "Abdukarimov Web",
+    		"email": "abdugaffor5269@gmail.com"
+    	}
+    ],
+    "require": {}
+}
